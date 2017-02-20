@@ -2,6 +2,7 @@ node_modules/
 craft/app
 craft/config
 craft/storage
+craft/plugins
 craft/templates/**/*.html
 
 public/assets
