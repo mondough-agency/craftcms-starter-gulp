@@ -1,0 +1,24 @@
+{
+  "name": "craft starter with gulp",
+  "version": "1.0.0",
+  "description": "Craft Starter",
+  "keywords": [
+    "gulp",
+    "craftcms"
+  ],
+  "author": "Oliver Weber",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-newer": "^1.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1"
+  }
+}

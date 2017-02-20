@@ -1,0 +1,8 @@
+node_modules/
+craft/app
+craft/config
+craft/storage
+craft/templates/**/*.html
+
+public/assets
+public/**/*.html
